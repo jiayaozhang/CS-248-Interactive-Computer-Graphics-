@@ -1,1 +1,1 @@
-# CS-248-Interactive-Computer-Graphics-
+# CS-248-Interactive-Computer-Graphics
